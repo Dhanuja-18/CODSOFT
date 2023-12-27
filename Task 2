@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tributepage.css">
+    <title>Tribute to Someone Special</title>
+</head>
+<body>
+    <header>
+        <h1>Tribute to Someone Special</h1>
+    </header>
+    
+    <main>
+        <section id="tribute-info">
+            <h2>Remembering...</h2>
+            <div id="image-container">
+                <img src="https://www.newsclick.in/sites/default/files/2021-08/Kamaraj0.jpg" alt="Person's Image">
+            </div>
+            <div id="bio">
+                <p>
+                    Kamarajar, also known as Perunthalaivar Kamaraj, was a renowned political leader and freedom fighter from Tamil Nadu, India. He played a pivotal role in shaping the socio-political landscape of the state and left an indelible mark on Indian politics. Born on July 15, 1903, in a humble family, Kamarajar’s journey exemplifies dedication, simplicity, and unwavering commitment to public service
+                </p>
+                <p>
+                    Kamarajar’s rise in politics began during the Indian independence movement. He actively participated in the Non-Cooperation Movement led by Mahatma Gandhi, mobilizing people and spreading the message of freedom. Despite limited formal education, his intelligence, integrity, and grassroots connect endeared him to the masses.
+
+                </p>
+                <p>
+                    Kamarajar’s influence extended beyond Tamil Nadu. He was a prominent figure in national politics and played a crucial role in the selection of two Prime Ministers of India, Lal Bahadur Shastri and Indira Gandhi. His vision for an inclusive and progressive India earned him the admiration of leaders across the country.
+                </p>
+                <p>
+                    Despite his immense popularity and contributions, Kamarajar remained humble and grounded. He voluntarily stepped down from the Chief Minister’s position in 1963, ushering in a new era of leadership and providing opportunities for younger politicians to emerge.
+                </p>
+                <p>
+                    Kamarajar was a visionary leader, a true statesman, and a symbol of simplicity and integrity. His commitment to public service, emphasis on education, and dedication to the welfare of the marginalized have left an indelible legacy. Kamarajar’s life serves as an inspiration to leaders and citizens alike, reminding us of the power of selflessness and the transformative impact of genuine concern for the welfare of the people.
+                </p>
+            </div>
+        </section>
+    </main>
+
+</body>
+</html>
